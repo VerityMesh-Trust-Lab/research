@@ -44,6 +44,12 @@ A developer-oriented approach to understanding AI-agent capabilities, tool permi
 4. Build a narrow prototype with reproducible synthetic test cases.
 5. Document limitations, invite feedback, and iterate openly.
 
+
+## Explore the research
+
+- **[Research library and publication index](research/README.md)** — published briefs, primary sources, open questions, and planned experiments.
+- **[Research Brief 001: Authorization Context and API Security Evidence](research/briefs/001-api-authorization-context-and-evidence.md)** — literature-backed investigation of authorization evidence gaps; experimental validation pending.
+
 ## Roadmap
 
 This repository is our home for research notes, source references, problem statements, architectural decisions, experiment results, and project plans. Individual tools may receive separate repositories as their implementations mature.
