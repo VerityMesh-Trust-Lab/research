@@ -18,6 +18,11 @@ This index helps engineers, researchers, and practitioners find our published re
 
 [Read Brief 001](briefs/001-api-authorization-context-and-evidence.md)
 
+## Weekly documentation
+
+- [October 27–November 2, 2026: Weekly research update](weekly-updates/2026-11-02.md) — verified repository status, proposed research refinement, and next actions.
+- [November 2, 2026: Documentation check-in](check-ins/2026-11-02.md) — structured capture of sources, problems, competitors, decisions, experiments, blockers, and next actions; unconfirmed inputs remain pending.
+
 ## Research planned — not yet published
 
 1. **Brief 002 — Existing API security tools and reproducible comparison.** Evaluate supported capabilities and limitations using comparable synthetic fixtures. Candidate baselines: Spectral, Schemathesis, RESTler, and other relevant tools.
